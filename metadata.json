@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Agoras Sim Quiz de Resistencia a la Insulina",
+  "description": "Quiz interactivo para identificar resistencia a la insulina en mujeres españolas de más de 35 años y personalizar su plan metabólico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
